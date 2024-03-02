@@ -1,3 +1,4 @@
+![logo](https://github.com/Aashishajmera/Aashishajmera/blob/master/images/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Aashish Ajmera</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
